@@ -1,4 +1,5 @@
 pl_slam/vocabulary/*.yml
+orb_slam/Vocabulary/*.txt
 
 
 
